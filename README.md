@@ -93,8 +93,11 @@ $v_2$, y $v_1^\perp$ es normal (perpendicular) a $v_2$.
 #### Ejecución de los tests unitarios
 
 ![Ejecución de tests](./vectores1.png)
+
 ![Ejecución de tests](./vectores2.png)
+
 ![Ejecución de tests](./vectores3.png)
+
 
 #### Código desarrollado
 
